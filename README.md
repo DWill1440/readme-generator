@@ -1,9 +1,9 @@
-# lakjdf
+# readme-generator
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-alkdsfj
+A terminal application thatwill generate a README file with user input.
 
 ## Table of Contents 
 
@@ -24,12 +24,12 @@ alkdsfj
 To install necessary dependencies, run the following command:
 
 ```
-lkjafd
+npm i
 ```
 
 ## Usage
 
-lakdsjf
+User should clone this repository, run the command to install, run the command 'node index', after answering questions in the terminal a readme file will be generated.
 
 ## License
 
@@ -37,17 +37,17 @@ This project is licensed under the MIT license.
   
 ## Contributing
 
-lkadsjf
+Made with ❤️ by DeMario Williams
 
 ## Tests
 
 To run tests, run the following command:
 
 ```
-alkjdsf
+npm test
 ```
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at alkdsfj. You can find more of my work at [a;lkjadfd](https://github.com/a;lkjadfd/).
+If you have any questions about the repo, open an issue or contact me directly at dwill2think@gmail.com. You can find more of my work at [DWill1440](https://github.com/DWill1440/).
 
